@@ -2,3 +2,4 @@ streamlit
 #pytube
 #reportlab
 python-dotenv
+yt_dlp
