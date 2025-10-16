@@ -1,3 +1,4 @@
 streamlit
-pytube
-reportlab
+#pytube
+#reportlab
+python-dotenv
