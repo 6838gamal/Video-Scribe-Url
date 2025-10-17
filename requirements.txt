@@ -1,5 +1,6 @@
 streamlit
 #pytube
-reportlab
-python-dotenv
-#yt_dlp
+#reportlab
+#python-dotenv
+yt_dlp
+assemblyai
