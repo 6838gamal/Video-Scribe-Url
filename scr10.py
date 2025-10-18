@@ -81,7 +81,7 @@ def download_audio_from_url(video_url):
         'quiet': True,
         'noplaylist': True,
         # ملف الكوكيز المستخدم لتجاوز حواجز يوتيوب وفيسبوك
-        'cookiefile': 'youtube.com_cookies.txt',
+        'cookiefile': 'com_cookies.txt',
         'postprocessors': [{
             'key': 'FFmpegExtractAudio',
             'preferredcodec': 'mp3',
