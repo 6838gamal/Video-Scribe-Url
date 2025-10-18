@@ -1,7 +1,9 @@
 streamlit
 #pytube
-reportlab
+#reportlab
 python-dotenv
 yt_dlp
 assemblyai
-langdetect
+#langdetect
+browser-cookie3
+ffmpeg-python
