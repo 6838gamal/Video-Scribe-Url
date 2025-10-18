@@ -3,5 +3,5 @@ streamlit
 reportlab
 python-dotenv
 yt_dlp
-#assemblyai
+assemblyai
 langdetect
