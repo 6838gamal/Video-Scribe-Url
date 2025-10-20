@@ -1,0 +1,6 @@
+streamlit
+yt-dlp
+SpeechRecognition
+langdetect
+tqdm
+pydub
