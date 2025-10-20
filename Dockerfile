@@ -10,10 +10,10 @@ COPY requirements.txt /app/
 RUN pip install --no-cache-dir -r requirements.txt
 
 # نسخ التطبيق
-COPY app.py /app/
+COPY start.py /app/
 
 # تعيين المنفذ
 EXPOSE 8501
 
 # أمر التشغيل
-CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0", "--server.headless=true"]
+CMD ["streamlit", "run", "start.py", "--server.port=8501", "--server.address=0.0.0.0", "--server.headless=true"]
